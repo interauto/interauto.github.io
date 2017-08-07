@@ -186,7 +186,7 @@
 .irs-bar,
 .irs-bar-edge,
 .irs-slider {
-    background: url(packages/postrednik_meteor-rangeslider/.npm/package/node_modules/ion-rangeslider/img/sprite-skin-flat.png) repeat-x
+    background: url(/packages/postrednik_meteor-rangeslider/sprite-skin-flat.png) repeat-x
 }
 
 .irs {
